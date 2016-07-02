@@ -1,0 +1,9 @@
+c:\Users\admistrador\documents\visual studio 2015\Projects\Tenis\Tenis.Tests\obj\Debug\Tenis.Tests.csprojResolveAssemblyReference.cache
+c:\Users\admistrador\documents\visual studio 2015\Projects\Tenis\Tenis.Tests\bin\Debug\Tenis.Tests.dll
+c:\Users\admistrador\documents\visual studio 2015\Projects\Tenis\Tenis.Tests\bin\Debug\Tenis.Tests.pdb
+c:\Users\admistrador\documents\visual studio 2015\Projects\Tenis\Tenis.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\admistrador\documents\visual studio 2015\Projects\Tenis\Tenis.Tests\bin\Debug\Tenis.dll
+c:\Users\admistrador\documents\visual studio 2015\Projects\Tenis\Tenis.Tests\bin\Debug\Tenis.pdb
+c:\Users\admistrador\documents\visual studio 2015\Projects\Tenis\Tenis.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\admistrador\documents\visual studio 2015\Projects\Tenis\Tenis.Tests\obj\Debug\Tenis.Tests.dll
+c:\Users\admistrador\documents\visual studio 2015\Projects\Tenis\Tenis.Tests\obj\Debug\Tenis.Tests.pdb
